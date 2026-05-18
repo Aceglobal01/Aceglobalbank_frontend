@@ -9,7 +9,7 @@ on:
   #     - cicd
 
 jobs:
-  Continues-Integration_build_and_push:
+  Continuous-Integration_build_and_push:
     runs-on: ubuntu-latest
 
     steps:
